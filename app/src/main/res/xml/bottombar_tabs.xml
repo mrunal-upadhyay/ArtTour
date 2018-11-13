@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+  <tab
+    icon="@drawable/ic_home_black_24dp"
+    id="@+id/tab_home"
+    title="Home"/>
+  <tab
+    icon="@drawable/ic_favorite_black_24dp"
+    id="@+id/tab_favorite"
+    title="Favorites"/>
+</tabs>

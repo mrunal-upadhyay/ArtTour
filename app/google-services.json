@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "502796966341",
+    "firebase_url": "https://arttour-8b0f1.firebaseio.com",
+    "project_id": "arttour-8b0f1",
+    "storage_bucket": "arttour-8b0f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502796966341:android:0fc0a7d909f8b50e",
+        "android_client_info": {
+          "package_name": "com.mrunal.arttour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502796966341-8abep0i7f116h6ussdgp0mk1sjk6jmte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrunal.arttour",
+            "certificate_hash": "53f04508358083086994b2b7b973971332a61c25"
+          }
+        },
+        {
+          "client_id": "502796966341-of3tmon0ofrugf76ipknn7cggojno6j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-tTDODX-X9JFNRIYJ6wImTCL4OthzfCY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502796966341-of3tmon0ofrugf76ipknn7cggojno6j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
